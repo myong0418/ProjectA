@@ -17,6 +17,9 @@ public class Gugudan {
 		
 	}
 
+	/**
+	 * @param i
+	 */
 	public static void printDan(int i) {
 		for (int j = 1; j <= 9; j++) {
 			System.out.println(i + "*" + j + "=" + i * j);
