@@ -15,10 +15,6 @@ public class Gugudan {
 		
 		printDan(i);
 		
-		
-//		for (int i = 2; i <= 9; i++) {
-//			printDan(i);
-//		}
 	}
 
 	public static void printDan(int i) {
