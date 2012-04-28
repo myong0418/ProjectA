@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Gugudan {
 
 	/**
-	 * @param args
+	 * @param string[] args
 	 */
 	public static void main(String[] args) {
 		System.out.println("input gugudan");
@@ -18,7 +18,7 @@ public class Gugudan {
 	}
 
 	/**
-	 * @param i
+	 * @param int i
 	 */
 	public static void printDan(int i) {
 		for (int j = 1; j <= 9; j++) {
